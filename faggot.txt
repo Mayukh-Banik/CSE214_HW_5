@@ -1,0 +1,31 @@
+1+Central
+11+Mendy
+111--Irving
+112--Grey
+113--LDS
+2+Hill
+21+Tabler
+211--Tosc
+212--TAC
+213--Hand
+22+Roth
+3+West
+31+WestApartments
+32--GLS Center
+4--BasementClub
+0--1
+1+Central
+11+Mendy
+111--Irving
+112--Grey
+113--LDS
+2+Hill
+21+Tabler
+211--Tosc
+212--TAC
+213--Hand
+22+Roth
+3+West
+31+WestApartments
+32--GLS Center
+4--BasementClub
